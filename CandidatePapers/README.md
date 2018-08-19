@@ -5,9 +5,8 @@
 
 <H2> Candidate Papers </H2>
 <ol>
- <li> <a href=https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf >Deep Learning (Nature 2015)</a></li>
- <li></li>
- <li></li>
+ <li> <a href="https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf" >Deep Learning (Nature 2015)</a></li>
+ <li> <a href="https://arxiv.org/pdf/1404.7828.pdf" >Deep Learning in Neural Networks: An Overview (arXiv 2014)</a></li>
 </ol>
 
 
