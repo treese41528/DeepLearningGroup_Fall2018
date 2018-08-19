@@ -1,2 +1,2 @@
 # DeepLearningGroup_Fall2018
-Possible papers to read and discuss during the meetings will be posted here.
+<H2>Methods papers selected for presentation on Tuesdays will be displayed here.</H2>
