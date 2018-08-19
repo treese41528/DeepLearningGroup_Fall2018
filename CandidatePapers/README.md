@@ -1,6 +1,6 @@
 # DeepLearningGroup_Fall2018
 <H2> You may directly add a proposed paper to the list of candidate papers below by altering this readme file.</H2>
-<H3>Please provide the name of the paper, publication and year, hyper-link.</H3>
+<H3>Please provide the name of the paper, publication with year, and hyper-link.</H3>
 
 
 <H3> Methods Candidate Papers </H3>
