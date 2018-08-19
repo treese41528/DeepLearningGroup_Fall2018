@@ -11,7 +11,7 @@
 
 <H3> Application Candidate Papers </H3>
 <ol>
- <li> <a href=""https://www.nature.com/articles/s41591-018-0107-6 >Clinically applicable deep learning for diagnosis and referral in retinal disease (Nature 2018)</a></li>
+ <li> <a href="https://www.nature.com/articles/s41591-018-0107-6" >Clinically applicable deep learning for diagnosis and referral in retinal disease (Nature 2018)</a></li>
 </ol>
 
 
