@@ -9,3 +9,9 @@
    </ol>
  <li> <a href="https://arxiv.org/abs/1806.01261" >Relational inductive biases, deep learning, and graph networks (arXiv 2018)</a></li>
 </ol>
+
+<H3>August 28 2018</H3>
+<ol>
+    <li> <a href="https://arxiv.org/abs/1806.01261" >Relational inductive biases, deep learning, and graph networks (arXiv 2018)</a></li>
+   <li> <a href="https://arxiv.org/abs/1703.06114" >Deep Sets (arXiv 2017) </a></li>
+</ol>
