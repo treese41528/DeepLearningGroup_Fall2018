@@ -9,8 +9,7 @@
 </ol>
 
 <H3>August 30 2018</H3>
-<ol>
- <li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8086133">Deep EHR(iEEE 2018)</a></li>
+<ol Patientli> <a href="https://www.nature.com/articles/srep26094.pdf">Deep Patient(iEEE 2018)</a></li>
    <li> <a href="https://www.nature.com/articles/s41746-018-0029-1.pdf" >Scalable and accurate deep learning with electronic health
 records (npj 2018)</a></li>
 </ol>
