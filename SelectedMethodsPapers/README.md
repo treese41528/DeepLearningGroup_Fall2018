@@ -15,3 +15,16 @@
     <li> <a href="https://arxiv.org/abs/1806.01261" >Relational inductive biases, deep learning, and graph networks (arXiv 2018)</a></li>
    <li> <a href="https://arxiv.org/abs/1703.06114" >Deep Sets (arXiv 2017) </a></li>
 </ol>
+
+
+<H3>September 4 2018</H3>
+<ol>
+    <li> <a href="https://arxiv.org/pdf/1409.0473.pdf" > NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE(ICLR 2015)</a></li>
+   <li> <a href="https://arxiv.org/abs/1506.03340" >Teaching Machines to Read and Comprehend (arXiv 2015) </a></li>
+ <ol>
+   <li> <a href="https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend" >Github Page </a></li>
+   <li> <a href="http://lxmls.it.pt/2015/lxmls15.pdf" >Companion Slides </a></li>
+ </ol>
+</ol>
+
+
