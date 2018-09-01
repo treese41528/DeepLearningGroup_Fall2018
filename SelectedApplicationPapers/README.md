@@ -9,7 +9,8 @@
 </ol>
 
 <H3>August 30 2018</H3>
-<ol Patientli> <a href="https://www.nature.com/articles/srep26094.pdf">Deep Patient(iEEE 2018)</a></li>
+<ol>
+ <li> <a href="https://www.nature.com/articles/srep26094.pdf">Deep Patient(iEEE 2018)</a></li>
    <li> <a href="https://www.nature.com/articles/s41746-018-0029-1.pdf" >Scalable and accurate deep learning with electronic health
 records (npj 2018)</a></li>
 </ol>
