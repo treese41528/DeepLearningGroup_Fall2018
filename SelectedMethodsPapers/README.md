@@ -28,3 +28,12 @@
 </ol>
 
 
+
+<H3>September 11 2018</H3>
+<ol>
+    <li>  <a href="https://arxiv.org/pdf/1706.03762.pdf" >Attention is All You Need (arXiv 2017) </li>
+   <li> <></a></li>
+</ol>
+
+
+
