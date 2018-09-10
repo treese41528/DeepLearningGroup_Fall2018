@@ -34,5 +34,3 @@
    <li> <a href="https://arxiv.org/abs/1508.04025">Effective Approaches to Attention-based Neural Machine Translation (arXiv 2015)</a></li>
 </ol>
 
-
-
