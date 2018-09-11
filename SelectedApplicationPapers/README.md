@@ -22,3 +22,8 @@ records (npj 2018)</a></li>
   <li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4644699/">Deep neural network with weight sparsity control (neuroimage 2016)</a></li>
 </ol>
 
+
+<H3>September 13 2018</H3>
+<ol>
+ <li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479722/">Deep Learning in Medical Image Analysis (PMC 2017)</a></li>
+</ol>
