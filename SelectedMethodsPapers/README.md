@@ -34,7 +34,7 @@
    <li> <a href="https://arxiv.org/abs/1508.04025">Effective Approaches to Attention-based Neural Machine Translation (arXiv 2015)</a></li>
 </ol>
 
-<H4>September 17 2018</H3>
+<H4>September 18 2018</H3>
 <ol>
     <li>  <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf" >Learning Multi-Attention Convolutional Neural Network (ICCV 2017) </li>
    <li> <a href="https://arxiv.org/pdf/1707.07998.pdf">Bottom-Up and Top-Down Attention for Image Captioning
