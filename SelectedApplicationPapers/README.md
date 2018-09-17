@@ -28,3 +28,9 @@ records (npj 2018)</a></li>
  <li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479722/">Deep Learning in Medical Image Analysis (BioMedEng 2017)</a></li>
  <li><a href = "https://www.sciencedirect.com/book/9780128104088/deep-learning-for-medical-image-analysis"> Deep Learning for Medical Image Analysis (Book Chapter 4 Efficient Medical Image Parsing 2017)[Note: can obtain from purdue library]</a></li>
 </ol>
+
+<H3>September 20 2018</H3>
+<ol>
+  <li><a href = "https://www.sciencedirect.com/book/9780128104088/deep-learning-for-medical-image-analysis"> Deep Learning for Medical Image Analysis (Book Chapter 11 - Scalable High Performance Image Registration Framework by Unsupervised Deep Feature Representations Learning 2017)</a></li>
+ <li><a href = "https://www.sciencedirect.com/book/9780128104088/deep-learning-for-medical-image-analysis"> Deep Learning for Medical Image Analysis (Book Chapter 10 - Characterization of Errors in Deep Learning-Based Brain MRI Segmentation 2017)</a></li>
+</ol>
