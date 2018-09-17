@@ -36,6 +36,8 @@
 
 <H4>September 18 2018</H3>
 <ol>
+   <li> <a href="https://arxiv.org/pdf/1411.4555.pdf">Show and Tell (arXiv 2015)</a></li>
+  <li> <a href="https://arxiv.org/pdf/1502.03044.pdf">Show, Attend and Tell (arXiv 2016)</a></li>
     <li>  <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf" >Learning Multi-Attention Convolutional Neural Network (ICCV 2017) </li>
    <li> <a href="https://arxiv.org/pdf/1707.07998.pdf">Bottom-Up and Top-Down Attention for Image Captioning
 and Visual Question Answering (arXiv 2018)</a></li>
