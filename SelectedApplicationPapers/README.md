@@ -25,6 +25,9 @@ records (npj 2018)</a></li>
 
 <H3>September 13 2018</H3>
 <ol>
+  <li> <a href="https://arxiv.org/pdf/1411.4555.pdf">Show and Tell (arXiv 2015)</a></li>
+  <li> <a href="https://arxiv.org/pdf/1502.03044.pdf">Show, Attend and Tell (arXiv 2016)</a></li>
+ 
  <li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479722/">Deep Learning in Medical Image Analysis (BioMedEng 2017)</a></li>
  <li><a href = "https://www.sciencedirect.com/book/9780128104088/deep-learning-for-medical-image-analysis"> Deep Learning for Medical Image Analysis (Book Chapter 4 Efficient Medical Image Parsing 2017)[Note: can obtain from purdue library]</a></li>
 </ol>
