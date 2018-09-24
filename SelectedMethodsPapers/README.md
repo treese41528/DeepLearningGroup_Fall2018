@@ -43,3 +43,13 @@
 and Visual Question Answering (arXiv 2018)</a></li>
 </ol>
 
+
+<H5>September 25 2018</H3>
+<ol>
+    <li>  <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf" >Learning Multi-Attention Convolutional Neural Network (ICCV 2017) </li>
+   <li> <a href="https://arxiv.org/pdf/1707.07998.pdf">Bottom-Up and Top-Down Attention for Image Captioning
+and Visual Question Answering (arXiv 2018)</a></li>
+    <li> <a href="https://arxiv.org/pdf/1311.2524.pdf">RCNN (arXiv 2014)</a></li>
+  <li> <a href="https://arxiv.org/pdf/1504.08083.pdf">Fast RCNN (arXiv 2015)</a></li>
+  <li> <a href="https://arxiv.org/abs/1506.01497">Faster RCNN (arXiv 2015)</a></li>
+</ol>
