@@ -25,11 +25,11 @@
     <td>October 16th</td>
   </tr>
     <tr>
-    <td>Bing Yu/Juan Shu</td>
+    <td>Bing/Juan</td>
     <td>October 18th</td>
   </tr>
   <tr>
-    <td>Yangze Zhou/Dongyang Zhao</td>
+    <td>Yangze/Dongyang</td>
     <td>October 23th</td>
   </tr>
 </table>
