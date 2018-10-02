@@ -9,28 +9,28 @@
     <th>Day</th>
   </tr>
   <tr>
-    <td>Tim</td>
+    <td>Tim/Wenbin</td>
     <td>October 4th</td>
   </tr>
     <tr>
     <td>Wenbin/Tim</td>
-    <td>October 9th</td>
+    <td>October 11th</td>
   </tr>
   <tr>
     <td>Zhaoxin/Hanming</td>
-    <td>October 11th</td>
+    <td>October 16th</td>
   </tr>
    <tr>
     <td>Michael/Yang Yang</td>
-    <td>October 16th</td>
+    <td>October 18th</td>
   </tr>
     <tr>
     <td>Bing/Juan</td>
-    <td>October 18th</td>
+    <td>October 23th</td>
   </tr>
   <tr>
     <td>Yangze/Dongyang</td>
-    <td>October 23th</td>
+    <td>October 25th</td>
   </tr>
 </table>
 
