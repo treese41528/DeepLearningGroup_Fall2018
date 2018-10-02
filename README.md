@@ -16,6 +16,22 @@
     <td>Wenbin/Tim</td>
     <td>October 9th</td>
   </tr>
+  <tr>
+    <td>Zhaoxin/Hanming</td>
+    <td>October 11th</td>
+  </tr>
+   <tr>
+    <td>Michael/Yang Yang</td>
+    <td>October 16th</td>
+  </tr>
+    <tr>
+    <td>Bing Yu/Juan Shu</td>
+    <td>October 18th</td>
+  </tr>
+  <tr>
+    <td>Yangze Zhou/Dongyang Zhao</td>
+    <td>October 23th</td>
+  </tr>
 </table>
 
 
