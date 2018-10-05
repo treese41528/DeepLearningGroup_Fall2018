@@ -13,19 +13,19 @@
     <td>October 4th</td>
   </tr>
     <tr>
-    <td>Wenbin/Tim</td>
+    <td>Wenbin</td>
     <td>October 11th</td>
   </tr>
   <tr>
-    <td>Zhaoxin/Hanming</td>
+    <td>Wenbin/</td>
     <td>October 16th</td>
   </tr>
    <tr>
-    <td>Michael/Yang Yang</td>
+    <td>Zhaoxin/Michael</td>
     <td>October 18th</td>
   </tr>
     <tr>
-    <td>Bing/Juan</td>
+    <td>Yang Yang/</td>
     <td>October 23th</td>
   </tr>
   <tr>
