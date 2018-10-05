@@ -17,21 +17,27 @@
     <td>October 11th</td>
   </tr>
   <tr>
-    <td>Wenbin/</td>
+    <td>Wenbin, OD</td>
     <td>October 16th</td>
   </tr>
    <tr>
-    <td>Zhaoxin/Michael</td>
+    <td>Zhaoxin/Michael, attention</td>
     <td>October 18th</td>
   </tr>
     <tr>
-    <td>Yang Yang/</td>
+    <td>Yang Yang, topic: architecture and Hyperparameter</td>
     <td>October 23th</td>
   </tr>
   <tr>
-    <td>Michael/TIm</td>
+    <td>Michael/TIm, Topic: hyperparameter</td>
     <td>October 25th</td>
   </tr>
+   
+   <tr>
+    <td>Pending, topic is expressivity</td>
+    <td>October 30th</td>
+  </tr>
+  
 </table>
 
 
