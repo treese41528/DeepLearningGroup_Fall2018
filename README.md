@@ -17,7 +17,7 @@
     <td>October 11th</td>
   </tr>
   <tr>
-    <td>Wenbin, OD</td>
+    <td>Wenbin, object detection</td>
     <td>October 16th</td>
   </tr>
    <tr>
@@ -25,16 +25,16 @@
     <td>October 18th</td>
   </tr>
     <tr>
-    <td>Yang Yang, topic: architecture and Hyperparameter</td>
+    <td>Yang Yang, architecture and Hyperparameter</td>
     <td>October 23th</td>
   </tr>
   <tr>
-    <td>Michael/TIm, Topic: hyperparameter</td>
+    <td>Michael/TIm, hyperparameter</td>
     <td>October 25th</td>
   </tr>
    
    <tr>
-    <td>Pending, topic is expressivity</td>
+    <td>Pending, expressivity</td>
     <td>October 30th</td>
   </tr>
   
