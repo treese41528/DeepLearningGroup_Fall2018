@@ -29,7 +29,7 @@
     <td>October 23th</td>
   </tr>
   <tr>
-    <td>Yangze/Dongyang</td>
+    <td>Michael/TIm</td>
     <td>October 25th</td>
   </tr>
 </table>
