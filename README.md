@@ -48,10 +48,38 @@
   </tr>
     <tr>
     <td>Friday 12th: Yang Yang/Haomin/Zhaoxin </td>
-    <td>Thursday 11th: 10am Wenbin</td>
+    <td>Others Meet Individually</td>
   </tr>
 </table>
 
+
+<H2>Planned Individual Meetings: Week:10/8 </H2>
+<table style="width:100%">
+  <tr>
+     <th>Names</th>
+     <th>Prefered Times</th>
+  </tr>
+    <tr>
+      <td>Haomin</td>
+      <td>Tuesday 10:00am</td>
+    </tr>
+  <tr>
+      <td>Zhaoxin</td>
+      <td>Thursday 10:00am</td>
+  </tr>
+     <tr>
+      <td>Wenbin </td>
+      <td>Thursday 10:00am</td>
+    </tr>
+    <tr>
+      <td>Tim </td>
+      <td>Thursday 11:00am</td>
+    </tr>
+    <tr>
+      <td>Yang Yang</td>
+      <td>Tuesday 11:00am</td>
+  </tr>
+</table>
 
 
 <H1> Conferences and Deadlines </H1>
