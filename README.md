@@ -40,6 +40,16 @@
   
 </table>
 
+<H2>Research Group Meetings</H2>
+<table style="width:100%">
+  <tr>
+     <th>Friday Present</th>
+     <th>Tuesday Thursday Meeting</th>
+  </tr>
+  
+</table>
+
+
 
 <H1> Conferences and Deadlines </H1>
 <ol>
