@@ -43,7 +43,7 @@
 <H2>Research Group Meetings</H2>
 <table style="width:100%">
   <tr>
-     <th>Friday Present</th>
+     <th>Friday Presentation</th>
      <th>Tuesday Thursday Meeting</th>
   </tr>
   
