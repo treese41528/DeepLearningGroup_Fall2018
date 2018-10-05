@@ -46,7 +46,10 @@
      <th>Friday Presentation</th>
      <th>Tuesday Thursday Meeting</th>
   </tr>
-  
+    <tr>
+    <td>Friday 12th: Yang Yang/Haomin </td>
+    <td>Thursday 11th: 10am Wenbin</td>
+  </tr>
 </table>
 
 
