@@ -13,7 +13,7 @@
     <td>October 4th</td>
   </tr>
     <tr>
-    <td>Wenbin</td>
+    <td>Wenbin, faster rcnn</td>
     <td>October 11th</td>
   </tr>
   <tr>
