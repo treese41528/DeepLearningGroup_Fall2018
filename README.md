@@ -53,7 +53,7 @@
 </table>
 
 
-<H2>Planned Individual Meetings: Week:10/8 </H2>
+<H2>Planned Individual Meetings: Depends on Week </H2>
 <table style="width:100%">
   <tr>
      <th>Names</th>
