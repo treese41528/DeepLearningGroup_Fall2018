@@ -53,3 +53,8 @@ and Visual Question Answering (arXiv 2018)</a></li>
   <li> <a href="https://arxiv.org/pdf/1504.08083.pdf">Fast RCNN (arXiv 2015)</a></li>
   <li> <a href="https://arxiv.org/abs/1506.01497">Faster RCNN (arXiv 2015)</a></li>
 </ol>
+
+<H3> October 18 2018 </H3>
+<ol>
+ <li> <a href = "https://arxiv.org/abs/1804.08199"> Linguistically-Informed Self-Attention for Semantic Role Labeling (arXiv 2018)</li>
+  </ol>
