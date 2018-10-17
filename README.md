@@ -47,7 +47,7 @@
      <th>Tuesday Thursday Meeting</th>
   </tr>
     <tr>
-    <td>Friday 12th: Yang Yang/Haomin/Zhaoxin </td>
+    <td>Friday 19th: Wenbin and Tim </td>
     <td>Others Meet Individually</td>
   </tr>
 </table>
