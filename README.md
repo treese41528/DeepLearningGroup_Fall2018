@@ -8,36 +8,15 @@
     <th>Name</th>
     <th>Day</th>
   </tr>
-  <tr>
-    <td>Tim/Wenbin</td>
-    <td>October 4th</td>
-  </tr>
-    <tr>
-    <td>Wenbin, faster rcnn</td>
-    <td>October 11th</td>
-  </tr>
-  <tr>
-    <td>Wenbin, object detection</td>
-    <td>October 16th</td>
-  </tr>
+
    <tr>
-    <td>Zhaoxin/Michael, attention</td>
-    <td>October 18th</td>
-  </tr>
-    <tr>
-    <td>Yang Yang, architecture and Hyperparameter</td>
-    <td>October 23th</td>
-  </tr>
-  <tr>
-    <td>Michael/TIm, hyperparameter</td>
-    <td>October 25th</td>
-  </tr>
-   
-   <tr>
-    <td>Pending, expressivity</td>
+    <td>Expressivity of DNN-- Michael</td>
     <td>October 30th</td>
   </tr>
-  
+  <tr>
+    <td>Expressivity of DNN-- Tim</td>
+    <td>November 1st</td>
+  </tr>
 </table>
 
 <H2>Research Group Meetings</H2>
@@ -47,7 +26,7 @@
      <th>Tuesday Thursday Meeting</th>
   </tr>
     <tr>
-    <td>Friday 19th: Bing, Wenbin, and Tim </td>
+    <td>Friday 2nd: Yang Yang, Zhaoxin </td>
     <td>Others Meet Individually</td>
   </tr>
 </table>
@@ -59,10 +38,6 @@
      <th>Names</th>
      <th>Prefered Times</th>
   </tr>
-    <tr>
-      <td>Haomin</td>
-      <td>Tuesday 10:00am</td>
-    </tr>
   <tr>
       <td>Zhaoxin</td>
       <td>Thursday 10:00am</td>
@@ -73,7 +48,7 @@
     </tr>
     <tr>
       <td>Tim </td>
-      <td>Thursday 11:00am</td>
+      <td>Tuesday 11:00am</td>
     </tr>
     <tr>
       <td>Yang Yang</td>
