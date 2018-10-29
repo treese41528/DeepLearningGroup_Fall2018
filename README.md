@@ -14,8 +14,12 @@
     <td>October 30th</td>
   </tr>
   <tr>
-    <td>Expressivity of DNN-- Tim</td>
+    <td>Reiforcement Learning and Dynamic Treatment Regime Bing</td>
     <td>November 1st</td>
+  </tr>
+    <tr>
+    <td>Reiforcement Learning and Dynamic Treatment Regime Bing</td>
+    <td>November 6th</td>
   </tr>
 </table>
 
