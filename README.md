@@ -26,7 +26,7 @@
      <th>Tuesday Thursday Meeting</th>
   </tr>
     <tr>
-    <td>Friday 2nd: Yang Yang, Zhaoxin </td>
+    <td>Friday 2nd: Tim. Zhaoxin </td>
     <td>Others Meet Individually</td>
   </tr>
 </table>
