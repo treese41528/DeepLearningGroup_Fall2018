@@ -23,40 +23,32 @@
   </tr>
 </table>
 
-<H2>Research Group Meetings</H2>
-<table style="width:100%">
-  <tr>
-     <th>Friday Presentation</th>
-     <th>Tuesday Thursday Meeting</th>
-  </tr>
-    <tr>
-    <td>Friday 2nd: Tim. Zhaoxin </td>
-    <td>Others Meet Individually</td>
-  </tr>
-</table>
 
-
-<H2>Planned Individual Meetings: Depends on Week </H2>
+<H2>Planned Individual Meetings</H2>
 <table style="width:100%">
   <tr>
      <th>Names</th>
-     <th>Prefered Times</th>
+     <th>Day/Time</th>
   </tr>
   <tr>
       <td>Zhaoxin</td>
-      <td>Thursday 10:00am</td>
+      <td>Tuesday 9:30-10:00am</td>
   </tr>
      <tr>
       <td>Wenbin </td>
-      <td>Thursday 10:00am</td>
+      <td>Thursday 9:30-10:30am</td>
     </tr>
     <tr>
       <td>Tim </td>
-      <td>Tuesday 11:00am</td>
+      <td>Thursday 10:30-11:30am</td>
     </tr>
     <tr>
       <td>Yang Yang</td>
-      <td>Tuesday 11:00am</td>
+      <td>Tuesday 10:30-11:30am</td>
+  </tr>
+      <tr>
+      <td>Bing</td>
+      <td>Friday 9:30-10:30am</td>
   </tr>
 </table>
 
