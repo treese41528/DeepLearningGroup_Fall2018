@@ -21,6 +21,14 @@
     <td>Reiforcement Learning and Dynamic Treatment Regime Bing</td>
     <td>November 6th</td>
   </tr>
+     <tr>
+    <td>Reiforcement Learning and Dynamic Treatment Regime Bing</td>
+    <td>November 8th</td>
+  </tr>
+      <tr>
+    <td>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</td>
+    <td>November 8th</td>
+  </tr>
 </table>
 
 
