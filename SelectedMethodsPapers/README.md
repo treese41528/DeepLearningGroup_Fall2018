@@ -70,7 +70,7 @@ and Visual Question Answering (arXiv 2018)</a></li>
  <li> <a href = "https://arxiv.org/abs/1810.04805"> BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (arXiv 2018)</li>
   </ol>
   
-    <H3> November 8 2018 </H3>
+    <H3> November 14 2018 </H3>
 <ol>
  <li> <a href = "https://arxiv.org/abs/1512.02325"> SSD: Single Shot MultiBox Detector (arXiv 2015)</li>
   </ol>
