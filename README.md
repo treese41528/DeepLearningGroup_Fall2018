@@ -25,6 +25,11 @@
     <td>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</td>
     <td>November 8th</td>
   </tr>
+    <tr>
+    <td>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</td>
+    <td>SSD: Single Shot MultiBox Detector</td>
+    <td>November 15th</td>
+  </tr>
 </table>
 
 
